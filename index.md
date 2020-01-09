@@ -5,12 +5,12 @@
   <tr>
     <td width="75%">
       <h1>Zhehao Li</h1>
-      <p><b> M.S. Candidate in Operations Research</b></p>
-      <p><b>Industrial Engineering and Operations Research, Columbia University </b></p>
-      <p><b>邮箱：zl2869@columbia.edu</b></p>
+      <p><b> M.S.in Operations Research</b></p>
+      <p><b>IEOR, Columbia University </b></p>
+      <p><b>E-mail：zl2869@columbia.edu</b></p>
     </td>
     <td width="25%">
-      <img src="pic/G65.jpg" width="100%">     
+      <img src="pic/IMG_clip.JPG" width="100%">     
     </td>
   </tr>
 </table>
