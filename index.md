@@ -1,13 +1,12 @@
-# ZhehaoLi's Homepage
 
 
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Zhehao Li</h1>
-      <p><b> M.S.in Operations Research</b></p>
+      <h1>Zhehao(Bruce) Li</h1>
+      <p><b> M.S. in Operations Research</b></p>
       <p><b>IEOR, Columbia University </b></p>
-      <p><b>E-mail：zl2869@columbia.edu</b></p>
+      <p><b>E-mail: zl2869@columbia.edu</b></p>
     </td>
     <td width="25%">
       <img src="pic/IMG_clip.JPG" width="100%">     
@@ -25,7 +24,7 @@
 
 
   <h4>Huazhong University of Science and Technology</h4>
-  <p> B.S. in Physics, Graduated June 2019 </p>
+  <p> B.S. in Physics, June 2019 </p>
   <p> GPA: 3.80/4.00 (Honor) </p>
 
 
