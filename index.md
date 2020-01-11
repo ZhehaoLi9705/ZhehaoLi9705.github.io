@@ -83,6 +83,6 @@
 <h2>Skills</h2>
   <hr/>
 
-  <p> Python, SQL, C++, Matlab, Gurobi, Know a bit about Deep Learning. </p>
+  <p> Python, SQL, Matlab, Gurobi, Deep Learning. </p>
 
 
