@@ -59,11 +59,32 @@
   </ul>
 
 
+<h2>Research Experience</h2>
+<hr/>
+
+  <h4>The Application of Statistical Mechanics on Determining the Distribution of Wealth (HUST)</h4>
+
+  <li>Utilized the Monte Carlo method to simulate the money flow among random individuals in society.</li>
+
+  <li>Proved the distribution of money in the society at equilibrium follows the Boltzmann-Gibbs distributions.</li>
+
+
+  <h4>Optimized the Deep Neural Networks to Solve the Gradient Explosion and Vanish (HUST)</h4>
+
+  <li>Applied the theory of multi-port interferometers to prove unitary matrices, which can be decomposed into second-order rotation matrices, can replace transfer matrix in neural networks, so gradient disappearance and explosion can be weakened.</li>
+
+  <h4>Quantum Calculation and Quantum Information based on Diamond Nitrogen Vacancy Centers (CAS)</h4>
+
+  <li>Integrate a quantum control platform with laser scanning confocal fluorescence microscopy as the main body.</li>
+
+
 <h2>Projects</h2>
 <hr/>
     
   <!-- 无序列表 -->
   <ul>
+
+  <li> Risk-Parity based Target Date Fund <a href="https://github.com/ZhehaoLi9705/Cornell-Case-Competition2020.git">(Target-Date)</a></li>
   
   <li> Lee-Ready Tick Strategy with Risk Adjustment <a href="https://github.com/ZhehaoLi9705/IEOR4729_Homework_2">(Tick-Strategy)</a> </li><br/>
 
