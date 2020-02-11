@@ -104,6 +104,6 @@
 <h2>Skills</h2>
   <hr/>
 
-  <p> Python, SQL, Matlab, Gurobi, Deep Learning. </p>
+  <p> Python, C++, SQL, Matlab, Gurobi, Machine Learning, Web Crawler </p>
 
 
