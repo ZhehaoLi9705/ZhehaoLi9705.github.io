@@ -31,6 +31,25 @@
 <h2>Work Experience</h2>
 <hr/>
 
+  <h4>China Securities Co., Ltd.</h4>
+  <p> Derivative Trading Summer Intern, Jun - Aug 2020 </p>
+
+  <li> Combined with asset analysis and optimization, the risk parity model is used to realize the allocation of large categories of assets. The annual average return is 8.42%, and the maximum withdrawal is only 12.29%. </li><br/>
+
+  <li> A multi factor allocation strategy based on the index average weighted risk parity model was developed. The annual average return was 9.04%, the information ratio was 1.66, and the maximum withdrawal was 8.63%. </li><br/>
+      
+  <ul>
+  
+
+  <li> Established a two-factor model for stock selecting in the Technology, Computer and Telecom sectors, with an average annual excess return of 26.0% and ICIR of up to 0.50. </li><br/>
+
+  <li> Optimized a multi-factor model for the electronic sector, increasing the average annual excess return from 18.0% to 20.4% when compared to the traditional model. </li> <br/>
+
+  <li> Created a program in Python to calculate a standardized z-score of any the indicators in financial statements to evaluate the performance of these indicators in stock filtering. </li> <br/>
+
+  </ul>
+
+
   <h4>E Fund Management Co., Ltd.</h4>
   <p> Quantitative Analyst Intern, Sep - Oct 2018 </p>
       
@@ -83,6 +102,8 @@
     
   <!-- 无序列表 -->
   <ul>
+
+  <li> Risk-Parity Factor Model <a href="https://github.com/ZhehaoLi9705/RiskParityFactorModel.git">(Target-Date)</a></li><br/>
 
   <li> Risk-Parity based Target Date Fund <a href="https://github.com/ZhehaoLi9705/Cornell-Case-Competition2020.git">(Target-Date)</a></li><br/>
   
