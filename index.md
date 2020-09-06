@@ -39,15 +39,6 @@
   <li> A multi factor allocation strategy based on the index average weighted risk parity model was developed. The annual average return was 9.04%, the information ratio was 1.66, and the maximum withdrawal was 8.63%. </li><br/>
       
   <ul>
-  
-
-  <li> Established a two-factor model for stock selecting in the Technology, Computer and Telecom sectors, with an average annual excess return of 26.0% and ICIR of up to 0.50. </li><br/>
-
-  <li> Optimized a multi-factor model for the electronic sector, increasing the average annual excess return from 18.0% to 20.4% when compared to the traditional model. </li> <br/>
-
-  <li> Created a program in Python to calculate a standardized z-score of any the indicators in financial statements to evaluate the performance of these indicators in stock filtering. </li> <br/>
-
-  </ul>
 
 
   <h4>E Fund Management Co., Ltd.</h4>
