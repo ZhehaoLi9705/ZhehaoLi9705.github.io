@@ -4,9 +4,9 @@
   <tr>
     <td width="75%">
       <h1>Zhehao(Bruce) Li</h1>
-      <p><b> M.S. in Operations Research</b></p>
-      <p><b>IEOR, Columbia University </b></p>
-      <p><b>E-mail: zl2869@columbia.edu</b></p>
+      <p><b>Incoming PhD Student in Management Science & Engineering</b></p>
+      <p><b>School of Economic and Management, TsingHua University </b></p>
+      <p><b>E-mail: li.zhehao@columbia.edu</b></p>
     </td>
     <td width="25%">
       <img src="pic/IMG_clip.JPG" width="100%">     
@@ -18,14 +18,15 @@
 <h2>Education</h2>
 <hr/>
 
-  <h4>Columbia University in the City of New York</h4>
-  <p> M.S. in Operations Research, Expected Dec 2020 </p>
-  <p> GPA: 3.75/4.00 </p>
+  <h4>TsingHua University</h4>
+  <p>Ph.D. in Mangament Scicence & Engineering, Graduated in 2025 (expected)</p>
 
+  <h4>Columbia University in the City of New York</h4>
+  <p> M.Sc. in Operations Research, Graduated in 2021 </p>
 
   <h4>Huazhong University of Science and Technology</h4>
-  <p> B.S. in Physics, June 2019 </p>
-  <p> GPA: 3.80/4.00 (Honor) </p>
+  <p> B.S. in Physics, Graduated in 2019 </p>
+
 
 
 <h2>Work Experience</h2>
@@ -34,39 +35,12 @@
   <h4>China Securities Co., Ltd.</h4>
   <p> Derivative Trading Summer Intern, Jun - Aug 2020 </p>
 
-  <li> Combined with asset analysis and optimization, the risk parity model is used to realize the allocation of large categories of assets. The annual average return is 8.42%, and the maximum withdrawal is only 12.29%. </li><br/>
-
-  <li> A multi factor allocation strategy based on the index average weighted risk parity model was developed. The annual average return was 9.04%, the information ratio was 1.66, and the maximum withdrawal was 8.63%. </li><br/>
-      
-  <ul>
-
-
   <h4>E Fund Management Co., Ltd.</h4>
   <p> Quantitative Analyst Intern, Sep - Oct 2018 </p>
-      
-  <ul>
-
-  <li> Established a two-factor model for stock selecting in the Technology, Computer and Telecom sectors, with an average annual excess return of 26.0% and ICIR of up to 0.50. </li><br/>
-
-  <li> Optimized a multi-factor model for the electronic sector, increasing the average annual excess return from 18.0% to 20.4% when compared to the traditional model. </li> <br/>
-
-  <li> Created a program in Python to calculate a standardized z-score of any the indicators in financial statements to evaluate the performance of these indicators in stock filtering. </li> <br/>
-
-  </ul>
-
 
   <h4>Guang Fa Fund Management Co., Ltd.</h4>
   <p>Quantitative Summer Analyst, Jul - Aug 2018 </p>
 
-  <ul>
-  
-  <li> Explored indicators capturing the characteristic of market bottom, and design a program in Python to monitor the signal of market bottom. </li> <br/>
-
-  <li> Constructed a new pricing model for China convertible bonds using the theory of Levy process by leveraging convertible bonds’ path-dependent features and packaged it into a Class in Python. </li> <br/>
-
-  <li> Designed a delta-hedging strategy with the use of new pricing model to trade convertible bonds and stocks. </li><br/>
-
-  </ul>
 
 
 <h2>Research Experience</h2>
