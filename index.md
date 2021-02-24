@@ -3,9 +3,9 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Zhehao(Bruce) Li</h1>
-      <p><b>Incoming PhD Student in Management Science & Engineering</b></p>
-      <p><b>School of Economic and Management, TsingHua University </b></p>
+      <h1>Zhehao Li</h1>
+      <p><b>Incoming PhD Student in MS&E </b></p>
+      <p><b>SEM, TsingHua University </b></p>
       <p><b>E-mail: li.zhehao@columbia.edu</b></p>
     </td>
     <td width="25%">
@@ -19,13 +19,13 @@
 <hr/>
 
   <h4>TsingHua University</h4>
-  <p>Ph.D. in Mangament Scicence & Engineering, Graduated in 2025 (expected)</p>
+  <p>Ph.D. in Mangament Scicence & Engineering, 2021 - 2025 (expected)</p>
 
   <h4>Columbia University in the City of New York</h4>
-  <p> M.Sc. in Operations Research, Graduated in 2021 </p>
+  <p> M.Sc. in Operations Research, 2019 - 2021 </p>
 
   <h4>Huazhong University of Science and Technology</h4>
-  <p> B.S. in Physics, Graduated in 2019 </p>
+  <p> B.S. in Physics, 2015 - 2019 </p>
 
 
 
@@ -90,6 +90,6 @@
 <h2>Skills</h2>
   <hr/>
 
-  <p> Python, C++, SQL, Matlab, Gurobi, Machine Learning, Web Crawler </p>
+  <p> C++, Python, Machine Learning, Optimization, Queuing Models </p>
 
 
