@@ -4,12 +4,12 @@
   <tr>
     <td width="75%">
       <h1>Zhehao Li</h1>
-      <p><b>Incoming PhD Student in MS&E </b></p>
+      <p><b>PhD Student in MS&E </b></p>
       <p><b>SEM, TsingHua University </b></p>
-      <p><b>E-mail: li.zhehao@columbia.edu</b></p>
+      <p><b>E-mail: lizh21@mails.tsinghua.edu.cn </b></p>
     </td>
     <td width="25%">
-      <img src="pic/IMG_clip.JPG" width="100%">     
+      <img src="pic/DSC_0003.JPG" width="100%">     
     </td>
   </tr>
 </table>
@@ -19,28 +19,13 @@
 <hr/>
 
   <h4>TsingHua University</h4>
-  <p>Ph.D. in Mangament Scicence & Engineering, 2021 - 2025 (expected)</p>
+  <p>Ph.D. in Mangament Scicence & Engineering, 2021 - 2026 (expected)</p>
 
   <h4>Columbia University in the City of New York</h4>
   <p> M.Sc. in Operations Research, 2019 - 2021 </p>
 
   <h4>Huazhong University of Science and Technology</h4>
   <p> B.S. in Physics, 2015 - 2019 </p>
-
-
-
-<h2>Work Experience</h2>
-<hr/>
-
-  <h4>China Securities Co., Ltd.</h4>
-  <p> Derivative Trading Summer Intern, Jun - Aug 2020 </p>
-
-  <h4>E Fund Management Co., Ltd.</h4>
-  <p> Quantitative Analyst Intern, Sep - Oct 2018 </p>
-
-  <h4>Guang Fa Fund Management Co., Ltd.</h4>
-  <p>Quantitative Summer Analyst, Jul - Aug 2018 </p>
-
 
 
 <h2>Research Experience</h2>
@@ -85,6 +70,19 @@
   <li> Market Bottom Evaluation <a href="https://github.com/ZhehaoLi9705/Market-Bottom">(Market-Bottom)</a></li>
 
   </ul>
+
+
+<h2>Work Experience</h2>
+<hr/>
+
+  <h4>China Securities Co., Ltd.</h4>
+  <p> Derivative Trading Summer Intern, Jun - Aug 2020 </p>
+
+  <h4>E Fund Management Co., Ltd.</h4>
+  <p> Quantitative Analyst Intern, Sep - Oct 2018 </p>
+
+  <h4>Guang Fa Fund Management Co., Ltd.</h4>
+  <p>Quantitative Summer Analyst, Jul - Aug 2018 </p>
 
 
 <h2>Skills</h2>
